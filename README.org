@@ -4,6 +4,6 @@ A tiny library for working with lenses on Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/picolens.git |
-| commit  | e4db765                                         |
+| commit  | 615e728                                         |
 | systems | picolens                                        |
 |---------+-------------------------------------------------|
